@@ -1,4 +1,4 @@
-# Análisis de Riesgos de Arquitectura Empresarial: Gestión Financiera y Cartera
+# Análisis de Riesgos de Arquitectura Empresarial
 **Proyecto:** ACR VITAL LABORAL SAS  
 **Caso de Estudio:** Problema #3 - Consolidación Financiera y Gestión de Cartera  
 Integrantes del equipo
